@@ -1,0 +1,193 @@
+LEAGUE,SEASON,CLUB
+Premier League,2025,Manchester City
+Premier League,2025,Arsenal FC
+Premier League,2025,Chelsea FC
+Premier League,2025,Liverpool FC
+Premier League,2025,Tottenham Hotspur
+Premier League,2025,Manchester United
+Premier League,2025,Crystal Palace
+Premier League,2025,Newcastle United
+Premier League,2025,AFC Bournemouth
+Premier League,2025,Nottingham Forest
+Premier League,2025,Brighton & Hove Albion
+Premier League,2025,Aston Villa
+Premier League,2025,Brentford FC
+Premier League,2025,West Ham United
+Premier League,2025,Everton FC
+Premier League,2025,Sunderland AFC
+Premier League,2025,Wolverhampton Wanderers
+Premier League,2025,Fulham FC
+Premier League,2025,Leeds United
+Premier League,2025,Burnley FC
+Premier League,2026,Manchester City
+Premier League,2026,Arsenal FC
+Premier League,2026,Chelsea FC
+Premier League,2026,Liverpool FC
+Premier League,2026,Manchester United
+Premier League,2026,Tottenham Hotspur
+Premier League,2026,Newcastle United
+Premier League,2026,Brighton & Hove Albion
+Premier League,2026,Brentford FC
+Premier League,2026,Crystal Palace
+Premier League,2026,AFC Bournemouth
+Premier League,2026,Aston Villa
+Premier League,2026,Nottingham Forest
+Premier League,2026,Sunderland AFC
+Premier League,2026,Leeds United
+Premier League,2026,Fulham FC
+Premier League,2026,Everton FC
+Premier League,2026,Ipswich Town
+Premier League,2026,Coventry City
+Premier League,2026,Hull City
+La Liga,2025,Real Madrid
+La Liga,2025,FC Barcelona
+La Liga,2025,Atlético de Madrid
+La Liga,2025,Villarreal CF
+La Liga,2025,Real Sociedad
+La Liga,2025,Real Betis Balompié
+La Liga,2025,Athletic Bilbao
+La Liga,2025,Celta de Vigo
+La Liga,2025,Girona FC
+La Liga,2025,Sevilla FC
+La Liga,2025,Valencia CF
+La Liga,2025,RCD Espanyol Barcelona
+La Liga,2025,Elche CF
+La Liga,2025,Levante UD
+La Liga,2025,Rayo Vallecano
+La Liga,2025,CA Osasuna
+La Liga,2025,Getafe CF
+La Liga,2025,RCD Mallorca
+La Liga,2025,Deportivo Alavés
+La Liga,2025,Real Oviedo
+La Liga,2026,Real Madrid
+La Liga,2026,FC Barcelona
+La Liga,2026,Atlético de Madrid
+La Liga,2026,Villarreal CF
+La Liga,2026,Real Sociedad
+La Liga,2026,Real Betis Balompié
+La Liga,2026,Athletic Bilbao
+La Liga,2026,Celta de Vigo
+La Liga,2026,Sevilla FC
+La Liga,2026,Valencia CF
+La Liga,2026,RCD Espanyol Barcelona
+La Liga,2026,Deportivo A Coruña
+La Liga,2026,Racing Santander
+La Liga,2026,Getafe CF
+La Liga,2026,Levante UD
+La Liga,2026,Rayo Vallecano
+La Liga,2026,CA Osasuna
+La Liga,2026,Elche CF
+La Liga,2026,Deportivo Alavés
+La Liga,2026,Málaga CF
+Bundesliga,2025,Bayern Munich
+Bundesliga,2025,RB Leipzig
+Bundesliga,2025,Bayer 04 Leverkusen
+Bundesliga,2025,Borussia Dortmund
+Bundesliga,2025,VfB Stuttgart
+Bundesliga,2025,Eintracht Frankfurt
+Bundesliga,2025,TSG 1899 Hoffenheim
+Bundesliga,2025,SC Freiburg
+Bundesliga,2025,VfL Wolfsburg
+Bundesliga,2025,Hamburger SV
+Bundesliga,2025,FC Augsburg
+Bundesliga,2025,SV Werder Bremen
+Bundesliga,2025,Borussia Mönchengladbach
+Bundesliga,2025,1.FSV Mainz 05
+Bundesliga,2025,1.FC Köln
+Bundesliga,2025,1.FC Union Berlin
+Bundesliga,2025,1.FC Heidenheim 1846
+Bundesliga,2025,FC St. Pauli
+Bundesliga,2026,Bayern Munich
+Bundesliga,2026,Borussia Dortmund
+Bundesliga,2026,RB Leipzig
+Bundesliga,2026,Bayer 04 Leverkusen
+Bundesliga,2026,VfB Stuttgart
+Bundesliga,2026,Eintracht Frankfurt
+Bundesliga,2026,TSG 1899 Hoffenheim
+Bundesliga,2026,SC Freiburg
+Bundesliga,2026,FC Augsburg
+Bundesliga,2026,1.FSV Mainz 05
+Bundesliga,2026,1.FC Köln
+Bundesliga,2026,Hamburger SV
+Bundesliga,2026,Borussia Mönchengladbach
+Bundesliga,2026,SV Werder Bremen
+Bundesliga,2026,1.FC Union Berlin
+Bundesliga,2026,FC Schalke 04
+Bundesliga,2026,SV 07 Elversberg
+Bundesliga,2026,SC Paderborn 07
+Serie A,2025,Inter Milan
+Serie A,2025,Juventus FC
+Serie A,2025,AC Milan
+Serie A,2025,AS Roma
+Serie A,2025,Atalanta BC
+Serie A,2025,SSC Napoli
+Serie A,2025,Como 1907
+Serie A,2025,Bologna FC 1909
+Serie A,2025,SS Lazio
+Serie A,2025,ACF Fiorentina
+Serie A,2025,US Sassuolo
+Serie A,2025,Udinese Calcio
+Serie A,2025,Parma Calcio 1913
+Serie A,2025,Cagliari Calcio
+Serie A,2025,Genoa CFC
+Serie A,2025,Torino FC
+Serie A,2025,US Lecce
+Serie A,2025,Pisa Sporting Club
+Serie A,2025,Hellas Verona
+Serie A,2025,US Cremonese
+Serie A,2026,Inter Milan
+Serie A,2026,Juventus FC
+Serie A,2026,Como 1907
+Serie A,2026,AS Roma
+Serie A,2026,AC Milan
+Serie A,2026,Atalanta BC
+Serie A,2026,SSC Napoli
+Serie A,2026,ACF Fiorentina
+Serie A,2026,SS Lazio
+Serie A,2026,Bologna FC 1909
+Serie A,2026,US Sassuolo
+Serie A,2026,Torino FC
+Serie A,2026,Genoa CFC
+Serie A,2026,Udinese Calcio
+Serie A,2026,Parma Calcio 1913
+Serie A,2026,Cagliari Calcio
+Serie A,2026,Venezia FC
+Serie A,2026,AC Monza
+Serie A,2026,Frosinone Calcio
+Serie A,2026,US Lecce
+Ligue 1,2025,Paris Saint-Germain
+Ligue 1,2025,Olympique Marseille
+Ligue 1,2025,RC Strasbourg Alsace
+Ligue 1,2025,AS Monaco
+Ligue 1,2025,Olympique Lyon
+Ligue 1,2025,Stade Rennais FC
+Ligue 1,2025,LOSC Lille
+Ligue 1,2025,RC Lens
+Ligue 1,2025,OGC Nice
+Ligue 1,2025,FC Toulouse
+Ligue 1,2025,Paris FC
+Ligue 1,2025,Angers SCO
+Ligue 1,2025,FC Lorient
+Ligue 1,2025,FC Nantes
+Ligue 1,2025,AJ Auxerre
+Ligue 1,2025,Stade Brestois 29
+Ligue 1,2025,FC Metz
+Ligue 1,2025,Le Havre AC
+Ligue 1,2026,Paris Saint-Germain
+Ligue 1,2026,AS Monaco
+Ligue 1,2026,RC Strasbourg Alsace
+Ligue 1,2026,Olympique Lyon
+Ligue 1,2026,LOSC Lille
+Ligue 1,2026,Stade Rennais FC
+Ligue 1,2026,RC Lens
+Ligue 1,2026,Olympique Marseille
+Ligue 1,2026,Paris FC
+Ligue 1,2026,OGC Nice
+Ligue 1,2026,FC Toulouse
+Ligue 1,2026,AJ Auxerre
+Ligue 1,2026,FC Lorient
+Ligue 1,2026,Stade Brestois 29
+Ligue 1,2026,Angers SCO
+Ligue 1,2026,Le Havre AC
+Ligue 1,2026,ESTAC Troyes
+Ligue 1,2026,Le Mans FC
