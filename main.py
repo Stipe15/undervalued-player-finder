@@ -51,6 +51,11 @@ n_missing_contract = df["CONTRACT_YEARS_LEFT"].isna().sum()
 df["CONTRACT_YEARS_LEFT"] = df["CONTRACT_YEARS_LEFT"].fillna(df["CONTRACT_YEARS_LEFT"].median())
 print(f"Imputed {n_missing_contract} missing CONTRACT_YEARS_LEFT values with the median")
 
+# CLUB_STRENGTH (the player's current club's total squad market value, from
+# Transfermarkt - see scrape_clubs.py / merge_club_strength.py) is heavily
+# right-skewed just like the target, so log-transform it the same way.
+df["CLUB_STRENGTH"] = np.log1p(df["CLUB_STRENGTH"])
+
 # ---------------------------------------------------------------------------
 # 2. FEATURE NOTES
 # ---------------------------------------------------------------------------

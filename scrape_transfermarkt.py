@@ -79,16 +79,18 @@ def strip_accents(s):
 
 
 def parse_market_value(text):
-    """'€100.00m' -> 100.0, '€500Th.' -> 0.5, '-' -> None"""
+    """'€100.00m' -> 100.0, '€500Th.' -> 0.5, '€1.33bn' -> 1330.0, '-' -> None"""
     text = text.strip()
     if not text or text == "-":
         return None
-    m = re.match(r"[^\d]*([\d.]+)\s*(m|Th\.)?", text)
+    m = re.match(r"[^\d]*([\d.]+)\s*(bn|m|Th\.)?", text)
     if not m:
         return None
     val = float(m.group(1))
     if m.group(2) == "Th.":
         val /= 1000.0
+    elif m.group(2) == "bn":
+        val *= 1000.0
     return val
 
 
