@@ -1,2 +1,4 @@
 podaci/top5_stats_combined.csv
 podaci/transfermarkt_top_players.csv
+__pycache__/
+~$*
