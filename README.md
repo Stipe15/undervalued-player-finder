@@ -25,6 +25,19 @@ See [documentation.docx](documentation.docx) for the full write-up (data issues 
 | Within ±25% | 41.3% | 41.9% |
 | Within ±50% | 71.9% | 75.2% |
 
+## Explaining predictions (SHAP)
+
+`shap_analysis.py` explains the XGBoost model's predictions with out-of-fold SHAP (TreeSHAP), so every player is explained by a model that never saw them — matching how the undervalued/overvalued rankings are produced.
+
+```bash
+python shap_analysis.py
+python shap_analysis.py --player "Kylian Mbappe"   # draw one extra player's chart on demand
+```
+
+Outputs land in `outputs/shap/`: a CSV with every player's per-feature SHAP values, a global feature-importance bar chart and beeswarm plot, and waterfall charts + CSVs for the top-10 undervalued/overvalued players. Globally, club strength, age and minutes played dominate the model's predictions.
+
+Caveats: SHAP explains why the model predicted a given value, not why the market disagrees — the gap itself is exactly what the model can't see. Correlated stats (e.g. the various passing/carrying columns) can split credit between themselves somewhat arbitrarily. And contributions describe the model's learned association, not a causal effect.
+
 ## Known limitations
 
 - No assists/xA/key-pass data anywhere in the source stats, and no goalkeepers at all.
