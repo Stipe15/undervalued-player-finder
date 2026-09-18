@@ -95,7 +95,10 @@ def pick_best_club(target_name, candidates):
 
     scored.sort(key=lambda t: (t[0], t[1]), reverse=True)
     is_top5, best_ratio, best = scored[0]
-    confident = is_top5 and best_ratio >= 0.6
+    # A near-exact name match is decisive on its own for a club (unlike a
+    # player name, club names rarely collide) - top5-league membership is
+    # only needed to break ties among lower-similarity candidates.
+    confident = best_ratio >= 0.97 or (is_top5 and best_ratio >= 0.6)
     return best, confident
 
 
@@ -110,7 +113,18 @@ def load_already_done():
 
 def main():
     with open(SRC, newline="", encoding="utf-8-sig") as f:
-        clubs = sorted({row["MATCHED_CLUB"] for row in csv.DictReader(f) if row["MATCHED_CLUB"]})
+        clubs = {row["MATCHED_CLUB"] for row in csv.DictReader(f) if row["MATCHED_CLUB"]}
+
+    # players_scraped_extra.csv (the below-EUR20m players) introduces many more
+    # clubs than the original 378 players did - pick those up too, if present.
+    if os.path.exists("podaci/players_scraped_extra.csv"):
+        with open("podaci/players_scraped_extra.csv", newline="", encoding="utf-8-sig") as f:
+            clubs |= {
+                row["MATCHED_CLUB"] for row in csv.DictReader(f)
+                if row["STATUS"] == "OK" and row["MATCHED_CLUB"] and row["MATCHED_CLUB"] != "Without Club"
+            }
+
+    clubs = sorted(clubs)
 
     done = load_already_done()
     session = requests.Session()
@@ -132,11 +146,26 @@ def main():
             candidates = search_club(session, club)
             time.sleep(st.REQUEST_DELAY)
 
-            # Transfermarkt's search chokes on "&" in a multi-word query
-            # (e.g. "Brighton & Hove Albion" -> no result); retry with "and".
-            if not candidates and "&" in club:
-                candidates = search_club(session, club.replace("&", "and"))
-                time.sleep(st.REQUEST_DELAY)
+            # Transfermarkt's search chokes on "&", "/" and parenthetical
+            # disambiguators (e.g. "Al-Nasr SC (UAE)", "FK Bodø/Glimt");
+            # retry with those stripped/normalized before giving up.
+            if not candidates:
+                simplified = re.sub(r"\s*\([^)]*\)", "", club)  # drop "(UAE)" etc.
+                simplified = simplified.replace("&", "and").replace("/", " ")
+                simplified = st.strip_accents(simplified).strip()
+                if simplified and simplified != club:
+                    candidates = search_club(session, simplified)
+                    time.sleep(st.REQUEST_DELAY)
+
+            # A few clubs (e.g. "FK Bodø/Glimt") only resolve once a short
+            # all-caps prefix like "FK"/"AC"/"SC" is dropped too.
+            if not candidates:
+                words = club.split()
+                if len(words) > 1 and words[0].isupper() and len(words[0]) <= 3:
+                    stripped = " ".join(words[1:]).replace("/", " ")
+                    stripped = st.strip_accents(stripped).strip()
+                    candidates = search_club(session, stripped)
+                    time.sleep(st.REQUEST_DELAY)
 
             if not candidates:
                 row["STATUS"] = "NOT_FOUND"

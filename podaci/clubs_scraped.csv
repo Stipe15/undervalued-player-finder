@@ -7,8 +7,6 @@ AFC Bournemouth,OK,AFC Bournemouth,Premier League,574.55,https://www.transfermar
 AJ Auxerre,OK,AJ Auxerre,Ligue 1,91.2,https://www.transfermarkt.com/aj-auxerre/startseite/verein/290
 AS Monaco,OK,AS Monaco,Ligue 1,314.65,https://www.transfermarkt.com/as-monaco/startseite/verein/162
 AS Roma,OK,AS Roma,Serie A,476.6,https://www.transfermarkt.com/as-rom/startseite/verein/12
-Al-Hilal SFC,NEEDS_REVIEW,Al-Hilal SFC,Saudi Pro League,239.88,https://www.transfermarkt.com/al-hilal-riad/startseite/verein/1114
-Al-Qadsiah FC,NEEDS_REVIEW,Al-Qadsiah FC,Saudi Pro League,152.3,https://www.transfermarkt.com/al-qadisiyah-fc/startseite/verein/26069
 Arsenal FC,OK,Arsenal FC,Premier League,1330.0,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11
 Aston Villa,OK,Aston Villa,Premier League,572.5,https://www.transfermarkt.com/aston-villa/startseite/verein/405
 Atalanta BC,OK,Atalanta BC,Serie A,436.05,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800
@@ -16,7 +14,6 @@ Athletic Bilbao,OK,Athletic Bilbao,LaLiga,231.0,https://www.transfermarkt.com/at
 Atlético de Madrid,OK,Atlético de Madrid,LaLiga,679.7,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13
 Bayer 04 Leverkusen,OK,Bayer 04 Leverkusen,Bundesliga,480.95,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15
 Bayern Munich,OK,Bayern Munich,Bundesliga,1040.0,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27
-Beşiktaş JK,NEEDS_REVIEW,Beşiktaş JK,Süper Lig,266.6,https://www.transfermarkt.com/besiktas-istanbul/startseite/verein/114
 Bologna FC 1909,OK,Bologna FC 1909,Serie A,218.25,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025
 Borussia Dortmund,OK,Borussia Dortmund,Bundesliga,564.45,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16
 Brentford FC,OK,Brentford FC,Premier League,584.8,https://www.transfermarkt.com/fc-brentford/startseite/verein/1148
@@ -30,10 +27,7 @@ Eintracht Frankfurt,OK,Eintracht Frankfurt,Bundesliga,288.65,https://www.transfe
 Everton FC,OK,Everton FC,Premier League,394.3,https://www.transfermarkt.com/fc-everton/startseite/verein/29
 FC Augsburg,OK,FC Augsburg,Bundesliga,172.0,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167
 FC Barcelona,OK,FC Barcelona,LaLiga,1260.0,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131
-FC Nantes,NEEDS_REVIEW,FC Nantes,Ligue 2,76.98,https://www.transfermarkt.com/fc-nantes/startseite/verein/995
-Fenerbahce,NEEDS_REVIEW,Fenerbahce,Süper Lig,280.7,https://www.transfermarkt.com/fenerbahce-istanbul/startseite/verein/36
 Fulham FC,OK,Fulham FC,Premier League,396.8,https://www.transfermarkt.com/fc-fulham/startseite/verein/931
-Galatasaray,NEEDS_REVIEW,Galatasaray,Süper Lig,411.6,https://www.transfermarkt.com/galatasaray-istanbul/startseite/verein/141
 Inter Milan,OK,Inter Milan,Serie A,730.3,https://www.transfermarkt.com/inter-mailand/startseite/verein/46
 Ipswich Town,OK,Ipswich Town,Premier League,330.55,https://www.transfermarkt.com/ipswich-town/startseite/verein/677
 Juventus FC,OK,Juventus FC,Serie A,618.7,https://www.transfermarkt.com/juventus-turin/startseite/verein/506
@@ -42,11 +36,9 @@ Leeds United,OK,Leeds United,Premier League,407.55,https://www.transfermarkt.com
 Liverpool FC,OK,Liverpool FC,Premier League,1030.0,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31
 Manchester City,OK,Manchester City,Premier League,1430.0,https://www.transfermarkt.com/manchester-city/startseite/verein/281
 Manchester United,OK,Manchester United,Premier League,922.8,https://www.transfermarkt.com/manchester-united/startseite/verein/985
-NEOM SC,NEEDS_REVIEW,NEOM SC,Saudi Pro League,83.38,https://www.transfermarkt.com/al-suqoor/startseite/verein/34911
 Newcastle United,OK,Newcastle United,Premier League,606.1,https://www.transfermarkt.com/newcastle-united/startseite/verein/762
 Nottingham Forest,OK,Nottingham Forest,Premier League,520.5,https://www.transfermarkt.com/nottingham-forest/startseite/verein/703
 Olympique Lyon,OK,Olympique Lyon,Ligue 1,258.65,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041
-PSV Eindhoven,NEEDS_REVIEW,PSV Eindhoven,Eredivisie,284.45,https://www.transfermarkt.com/psv-eindhoven/startseite/verein/383
 Paris Saint-Germain,OK,Paris Saint-Germain,Ligue 1,1360.0,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583
 Parma Calcio 1913,OK,Parma Calcio 1913,Serie A,149.23,https://www.transfermarkt.com/parma-calcio-1913/startseite/verein/130
 RB Leipzig,OK,RB Leipzig,Bundesliga,487.95,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826
@@ -54,12 +46,10 @@ RC Lens,OK,RC Lens,Ligue 1,203.2,https://www.transfermarkt.com/rc-lens/startseit
 RC Strasbourg Alsace,OK,RC Strasbourg Alsace,Ligue 1,287.45,https://www.transfermarkt.com/rc-strassburg-alsace/startseite/verein/667
 Real Madrid,OK,Real Madrid,LaLiga,1460.0,https://www.transfermarkt.com/real-madrid/startseite/verein/418
 Real Sociedad,OK,Real Sociedad,LaLiga,278.3,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681
-Royal Antwerp FC,NEEDS_REVIEW,Royal Antwerp FC,Jupiler Pro League,61.05,https://www.transfermarkt.com/royal-antwerpen-fc/startseite/verein/1096
 SC Freiburg,OK,SC Freiburg,Bundesliga,211.5,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60
 SS Lazio,OK,SS Lazio,Serie A,255.85,https://www.transfermarkt.com/lazio-rom/startseite/verein/398
 SSC Napoli,OK,SSC Napoli,Serie A,432.5,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195
 Sevilla FC,OK,Sevilla FC,LaLiga,169.1,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368
-Sporting CP,NEEDS_REVIEW,Sporting CP,Liga Portugal,378.7,https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336
 Stade Rennais FC,OK,Stade Rennais FC,Ligue 1,233.3,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273
 Sunderland AFC,OK,Sunderland AFC,Premier League,421.28,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289
 TSG 1899 Hoffenheim,OK,TSG 1899 Hoffenheim,Bundesliga,280.95,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533
@@ -68,5 +58,198 @@ Udinese Calcio,OK,Udinese Calcio,Serie A,151.3,https://www.transfermarkt.com/udi
 Valencia CF,OK,Valencia CF,LaLiga,149.1,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049
 VfB Stuttgart,OK,VfB Stuttgart,Bundesliga,379.7,https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79
 Villarreal CF,OK,Villarreal CF,LaLiga,331.6,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050
-West Ham United,NEEDS_REVIEW,West Ham United,Championship,267.5,https://www.transfermarkt.com/west-ham-united/startseite/verein/379
-Wolverhampton Wanderers,NEEDS_REVIEW,Wolverhampton Wanderers,Championship,242.45,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543
+1.FSV Mainz 05,OK,1.FSV Mainz 05,Bundesliga,165.2,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39
+AC Monza,OK,AC Monza,Serie A,103.45,https://www.transfermarkt.com/ac-monza/startseite/verein/2919
+Angers SCO,OK,Angers SCO,Ligue 1,64.0,https://www.transfermarkt.com/sco-angers/startseite/verein/1420
+Borussia Mönchengladbach,OK,Borussia Mönchengladbach,Bundesliga,138.55,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18
+CA Osasuna,OK,CA Osasuna,LaLiga,77.9,https://www.transfermarkt.com/ca-osasuna/startseite/verein/331
+Cagliari Calcio,OK,Cagliari Calcio,Serie A,121.15,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390
+Coventry City,OK,Coventry City,Premier League,296.7,https://www.transfermarkt.com/coventry-city/startseite/verein/990
+Deportivo Alavés,OK,Deportivo Alavés,LaLiga,66.7,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108
+ESTAC Troyes,OK,ESTAC Troyes,Ligue 1,40.28,https://www.transfermarkt.com/es-troyes-ac/startseite/verein/1095
+Elche CF,OK,Elche CF,LaLiga,74.0,https://www.transfermarkt.com/fc-elche/startseite/verein/1531
+FC Lorient,OK,FC Lorient,Ligue 1,90.05,https://www.transfermarkt.com/fc-lorient/startseite/verein/1158
+FC Schalke 04,OK,FC Schalke 04,Bundesliga,70.93,https://www.transfermarkt.com/fc-schalke-04/startseite/verein/33
+FC Toulouse,OK,FC Toulouse,Ligue 1,110.9,https://www.transfermarkt.com/fc-toulouse/startseite/verein/415
+Frosinone Calcio,OK,Frosinone Calcio,Serie A,94.2,https://www.transfermarkt.com/frosinone-calcio/startseite/verein/8970
+Genoa CFC,OK,Genoa CFC,Serie A,169.0,https://www.transfermarkt.com/genua-cfc/startseite/verein/252
+Getafe CF,OK,Getafe CF,LaLiga,92.3,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709
+Hamburger SV,OK,Hamburger SV,Bundesliga,152.8,https://www.transfermarkt.com/hamburger-sv/startseite/verein/41
+Hull City,OK,Hull City,Premier League,251.9,https://www.transfermarkt.com/hull-city/startseite/verein/3008
+LASK,OK,LASK,Bundesliga,51.05,https://www.transfermarkt.com/lask/startseite/verein/413
+Le Havre AC,OK,Le Havre AC,Ligue 1,61.95,https://www.transfermarkt.com/ac-le-havre/startseite/verein/738
+Le Mans FC,OK,Le Mans FC,Ligue 1,27.55,https://www.transfermarkt.com/le-mans-fc/startseite/verein/1164
+Levante UD,OK,Levante UD,LaLiga,86.9,https://www.transfermarkt.com/ud-levante/startseite/verein/3368
+Málaga CF,OK,Málaga CF,LaLiga,55.35,https://www.transfermarkt.com/fc-malaga/startseite/verein/1084
+OGC Nice,OK,OGC Nice,Ligue 1,139.6,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417
+Olympique Marseille,OK,Olympique Marseille,Ligue 1,181.85,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244
+Paris FC,OK,Paris FC,Ligue 1,173.2,https://www.transfermarkt.com/paris-fc/startseite/verein/10004
+RCD Espanyol Barcelona,OK,RCD Espanyol Barcelona,LaLiga,127.8,https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714
+Racing Santander,OK,Racing Santander,LaLiga,107.5,https://www.transfermarkt.com/racing-santander/startseite/verein/630
+Rayo Vallecano,OK,Rayo Vallecano,LaLiga,86.85,https://www.transfermarkt.com/rayo-vallecano/startseite/verein/367
+Real Betis Balompié,OK,Real Betis Balompié,LaLiga,254.6,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150
+Red Bull Salzburg,OK,Red Bull Salzburg,Bundesliga,100.05,https://www.transfermarkt.com/red-bull-salzburg/startseite/verein/409
+SC Paderborn 07,OK,SC Paderborn 07,Bundesliga,48.38,https://www.transfermarkt.com/sc-paderborn-07/startseite/verein/127
+SK Sturm Graz,OK,SK Sturm Graz,Bundesliga,60.43,https://www.transfermarkt.com/sk-sturm-graz/startseite/verein/122
+SV Werder Bremen,OK,SV Werder Bremen,Bundesliga,122.08,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86
+Stade Brestois 29,OK,Stade Brestois 29,Ligue 1,69.6,https://www.transfermarkt.com/stade-brest-29/startseite/verein/3911
+Torino FC,OK,Torino FC,Serie A,177.1,https://www.transfermarkt.com/fc-turin/startseite/verein/416
+US Lecce,OK,US Lecce,Serie A,82.65,https://www.transfermarkt.com/us-lecce/startseite/verein/1005
+US Sassuolo,OK,US Sassuolo,Serie A,198.95,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574
+Venezia FC,OK,Venezia FC,Serie A,116.15,https://www.transfermarkt.com/venezia-fc/startseite/verein/607
+1.FC Heidenheim 1846,OK,1.FC Heidenheim 1846,2. Bundesliga,37.9,https://www.transfermarkt.com/1-fc-heidenheim-1846/startseite/verein/2036
+1.FC Kaiserslautern,OK,1.FC Kaiserslautern,2. Bundesliga,34.15,https://www.transfermarkt.com/1-fc-kaiserslautern/startseite/verein/2
+AC Sparta Praha,OK,AC Sparta Praha,Chance Liga,83.15,https://www.transfermarkt.com/ac-sparta-prag/startseite/verein/197
+AEK Athens,OK,AEK Athens,Super League 1,86.2,https://www.transfermarkt.com/aek-athen/startseite/verein/2441
+Abha Club,OK,Abha Club,Saudi Pro League,20.72,https://www.transfermarkt.com/abha-club/startseite/verein/40039
+Ajax Amsterdam,OK,Ajax Amsterdam,Eredivisie,228.7,https://www.transfermarkt.com/ajax-amsterdam/startseite/verein/610
+Al-Ain FC,OK,Al-Ain FC,UAE Pro League,35.68,https://www.transfermarkt.com/al-ain-fc/startseite/verein/2150
+Al-Diriyah FC,OK,Al-Diriyah FC,Saudi Pro League,71.1,https://www.transfermarkt.com/al-diriyah/startseite/verein/52358
+Al-Gharafa SC,OK,Al-Gharafa SC,Qatar Stars League,28.33,https://www.transfermarkt.com/al-gharafa-sc/startseite/verein/6297
+Al-Hilal SFC,OK,Al-Hilal SFC,Saudi Pro League,239.88,https://www.transfermarkt.com/al-hilal-riad/startseite/verein/1114
+Al-Ittihad SC,OK,Al-Ittihad SC,Libyan Premier League,13.01,https://www.transfermarkt.com/al-ittihad-tripoli/startseite/verein/13505
+Al-Jazira Club,OK,Al-Jazira Club,UAE Pro League,77.63,https://www.transfermarkt.com/al-jazira-abu-dhabi-/startseite/verein/2524
+Al-Khaleej FC,OK,Al-Khaleej FC,Saudi Pro League,22.1,https://www.transfermarkt.com/al-khaleej/startseite/verein/6070
+Al-Nasr SC (UAE),OK,Al-Nasr SC (UAE),UAE Pro League,30.58,https://www.transfermarkt.com/al-nasr-dubai-/startseite/verein/5432
+Al-Nassr FC,OK,Al-Nassr FC,Saudi Pro League,136.58,https://www.transfermarkt.com/al-nasr-riad/startseite/verein/18544
+Al-Qadsiah FC,OK,Al-Qadsiah FC,Saudi Pro League,152.3,https://www.transfermarkt.com/al-qadisiyah-fc/startseite/verein/26069
+Al-Sadd SC,OK,Al-Sadd SC,Qatar Stars League,78.25,https://www.transfermarkt.com/al-sadd-sc/startseite/verein/656
+Al-Shabab FC,OK,Al-Shabab FC,Saudi Pro League,45.35,https://www.transfermarkt.com/al-shabab-riad/startseite/verein/9840
+Al-Shamal SC,OK,Al-Shamal SC,Qatar Stars League,22.48,https://www.transfermarkt.com/al-shamal/startseite/verein/10775
+Al-Wasl SC,OK,Al-Wasl SC,UAE Pro League,57.11,https://www.transfermarkt.com/al-wasl-sports-club/startseite/verein/16214
+Amed SK,OK,Amed SK,Süper Lig,27.63,https://www.transfermarkt.com/amed-sk/startseite/verein/12382
+Aris Thessaloniki,OK,Aris Thessaloniki,Super League 1,43.35,https://www.transfermarkt.com/aris-thessaloniki/startseite/verein/605
+Atlanta United FC,OK,Atlanta United FC,Major League Soccer,59.3,https://www.transfermarkt.com/atlanta-united-fc/startseite/verein/51663
+BSC Young Boys,OK,BSC Young Boys,Super League,64.3,https://www.transfermarkt.com/bsc-young-boys/startseite/verein/452
+Beşiktaş JK,OK,Beşiktaş JK,Süper Lig,266.6,https://www.transfermarkt.com/besiktas-istanbul/startseite/verein/114
+Birmingham City,OK,Birmingham City,Championship,98.25,https://www.transfermarkt.com/birmingham-city/startseite/verein/337
+Botafogo de Futebol e Regatas,OK,Botafogo de Futebol e Regatas,Campeonato Brasileiro Série A,117.1,https://www.transfermarkt.com/botafogo-rio-de-janeiro/startseite/verein/537
+Burgos CF,OK,Burgos CF,LaLiga2,20.65,https://www.transfermarkt.com/burgos-cf/startseite/verein/1536
+Buriram United,OK,Buriram United,Thai League,13.1,https://www.transfermarkt.com/buriram-united/startseite/verein/25449
+Burnley FC,OK,Burnley FC,Championship,147.8,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132
+CA River Plate,OK,CA River Plate,Torneo Clausura,124.5,https://www.transfermarkt.com/club-atletico-river-plate/startseite/verein/209
+CD Castellón,OK,CD Castellón,LaLiga2,25.35,https://www.transfermarkt.com/cd-castellon/startseite/verein/2502
+CD Leganés,OK,CD Leganés,LaLiga2,31.9,https://www.transfermarkt.com/cd-leganes/startseite/verein/1244
+CF América,OK,CF América,Liga MX Apertura,123.1,https://www.transfermarkt.com/cf-america/startseite/verein/3631
+CF Pachuca,OK,CF Pachuca,Liga MX Apertura,40.1,https://www.transfermarkt.com/cf-pachuca/startseite/verein/4035
+CR Flamengo,OK,CR Flamengo,Campeonato Brasileiro Série A,208.75,https://www.transfermarkt.com/flamengo-rio-de-janeiro/startseite/verein/614
+CSKA Sofia,OK,CSKA Sofia,efbet Liga,26.83,https://www.transfermarkt.com/zska-sofia/startseite/verein/208
+Caykur Rizespor,OK,Caykur Rizespor,Süper Lig,48.0,https://www.transfermarkt.com/caykur-rizespor/startseite/verein/126
+Celtic FC,OK,Celtic FC,Scottish Premiership,118.4,https://www.transfermarkt.com/celtic-glasgow/startseite/verein/371
+Cerezo Osaka,OK,Cerezo Osaka,J1 League,15.4,https://www.transfermarkt.com/cerezo-osaka/startseite/verein/1022
+Chicago Fire FC,OK,Chicago Fire FC,Major League Soccer,53.5,https://www.transfermarkt.com/chicago-fire-fc/startseite/verein/432
+Club Brugge KV,OK,Club Brugge KV,Jupiler Pro League,199.0,https://www.transfermarkt.com/fc-brugge/startseite/verein/2282
+Club León FC,OK,Club León FC,Liga MX Apertura,46.1,https://www.transfermarkt.com/club-leon-fc/startseite/verein/4941
+Columbus Crew,OK,Columbus Crew,Major League Soccer,61.08,https://www.transfermarkt.com/columbus-crew-sc/startseite/verein/813
+Coritiba Foot Ball Club,OK,Coritiba Foot Ball Club,Campeonato Brasileiro Série A,45.35,https://www.transfermarkt.com/coritiba-fc/startseite/verein/776
+Corum FK,OK,Corum FK,Süper Lig,67.25,https://www.transfermarkt.com/corum-fk/startseite/verein/37951
+Cádiz CF,OK,Cádiz CF,LaLiga2,29.45,https://www.transfermarkt.com/fc-cadiz/startseite/verein/2687
+Deportivo Toluca,OK,Deportivo Toluca,Liga MX Apertura,92.5,https://www.transfermarkt.com/deportivo-toluca/startseite/verein/1804
+Derby County,OK,Derby County,Championship,71.1,https://www.transfermarkt.com/derby-county/startseite/verein/22
+Dynamo Moscow,OK,Dynamo Moscow,Premier Liga,115.2,https://www.transfermarkt.com/dinamo-moskau/startseite/verein/121
+Erzurumspor FK,OK,Erzurumspor FK,Süper Lig,26.88,https://www.transfermarkt.com/buyuksehir-belediye-erzurumspor/startseite/verein/39722
+FC Basel 1893,OK,FC Basel 1893,Super League,48.3,https://www.transfermarkt.com/fc-basel-1893/startseite/verein/26
+FC Cincinnati,OK,FC Cincinnati,Major League Soccer,65.65,https://www.transfermarkt.com/fc-cincinnati/startseite/verein/51772
+FC Energie Cottbus,OK,FC Energie Cottbus,2. Bundesliga,11.15,https://www.transfermarkt.com/fc-energie-cottbus/startseite/verein/25
+FC Groningen,OK,FC Groningen,Eredivisie,34.65,https://www.transfermarkt.com/fc-groningen/startseite/verein/202
+FC Lausanne-Sport,OK,FC Lausanne-Sport,Super League,32.23,https://www.transfermarkt.com/fc-lausanne-sport/startseite/verein/527
+FC Metz,OK,FC Metz,Ligue 2,38.85,https://www.transfermarkt.com/fc-metz/startseite/verein/347
+FC Nantes,OK,FC Nantes,Ligue 2,76.98,https://www.transfermarkt.com/fc-nantes/startseite/verein/995
+FC Porto,OK,FC Porto,Liga Portugal,464.8,https://www.transfermarkt.com/fc-porto/startseite/verein/720
+FC Rapid 1923,OK,FC Rapid 1923,SuperLiga,29.2,https://www.transfermarkt.com/fc-rapid-1923/startseite/verein/455
+FC St. Pauli,OK,FC St. Pauli,2. Bundesliga,48.43,https://www.transfermarkt.com/fc-st-pauli/startseite/verein/35
+FC Viktoria Plzen,OK,FC Viktoria Plzen,Chance Liga,63.1,https://www.transfermarkt.com/fc-viktoria-pilsen/startseite/verein/941
+Fenerbahce,OK,Fenerbahce,Süper Lig,280.7,https://www.transfermarkt.com/fenerbahce-istanbul/startseite/verein/36
+Feyenoord Rotterdam,OK,Feyenoord Rotterdam,Eredivisie,210.73,https://www.transfermarkt.com/feyenoord-rotterdam/startseite/verein/234
+Galatasaray,OK,Galatasaray,Süper Lig,411.6,https://www.transfermarkt.com/galatasaray-istanbul/startseite/verein/141
+Genclerbirligi Ankara,OK,Genclerbirligi Ankara,Süper Lig,28.85,https://www.transfermarkt.com/genclerbirligi-ankara/startseite/verein/820
+Girona FC,OK,Girona FC,LaLiga2,68.6,https://www.transfermarkt.com/fc-girona/startseite/verein/12321
+Granada CF,OK,Granada CF,LaLiga2,15.65,https://www.transfermarkt.com/fc-granada/startseite/verein/16795
+Górnik Zabrze,OK,Górnik Zabrze,PKO BP Ekstraklasa,31.45,https://www.transfermarkt.com/gornik-zabrze/startseite/verein/428
+HNK Hajduk Split,OK,HNK Hajduk Split,SuperSport HNL,28.23,https://www.transfermarkt.com/hnk-hajduk-split/startseite/verein/447
+Hellas Verona,OK,Hellas Verona,Serie B,47.83,https://www.transfermarkt.com/hellas-verona/startseite/verein/276
+Hertha BSC,OK,Hertha BSC,2. Bundesliga,25.15,https://www.transfermarkt.com/hertha-bsc/startseite/verein/44
+Holstein Kiel,OK,Holstein Kiel,2. Bundesliga,32.03,https://www.transfermarkt.com/holstein-kiel/startseite/verein/269
+Houston Dynamo FC,OK,Houston Dynamo FC,Major League Soccer,33.95,https://www.transfermarkt.com/houston-dynamo-fc/startseite/verein/9168
+Inter Miami CF,OK,Inter Miami CF,Major League Soccer,96.75,https://www.transfermarkt.com/inter-miami-cf/startseite/verein/69261
+KV Kortrijk,OK,KV Kortrijk,Jupiler Pro League,23.75,https://www.transfermarkt.com/kv-kortrijk/startseite/verein/601
+Kasimpasa,OK,Kasimpasa,Süper Lig,36.3,https://www.transfermarkt.com/kasimpasa/startseite/verein/10484
+Konyaspor,OK,Konyaspor,Süper Lig,38.3,https://www.transfermarkt.com/konyaspor/startseite/verein/2293
+Lech Poznań,OK,Lech Poznań,PKO BP Ekstraklasa,54.5,https://www.transfermarkt.com/lech-posen/startseite/verein/238
+Leicester City,OK,Leicester City,League One,71.78,https://www.transfermarkt.com/leicester-city/startseite/verein/1003
+Lincoln City,OK,Lincoln City,Championship,21.3,https://www.transfermarkt.com/lincoln-city/startseite/verein/1198
+Los Angeles FC,OK,Los Angeles FC,Major League Soccer,58.63,https://www.transfermarkt.com/los-angeles-fc/startseite/verein/51828
+Los Angeles Galaxy,OK,Los Angeles Galaxy,Major League Soccer,46.93,https://www.transfermarkt.com/los-angeles-galaxy/startseite/verein/1061
+Malmö FF,OK,Malmö FF,Allsvenskan,31.75,https://www.transfermarkt.com/malmo-ff/startseite/verein/496
+Millonarios FC,OK,Millonarios FC,Liga Dimayor Finalización,14.93,https://www.transfermarkt.com/millonarios-fc/startseite/verein/2350
+Modena FC,OK,Modena FC,Serie B,30.3,https://www.transfermarkt.com/modena-fc-2018/startseite/verein/1385
+Molde FK,OK,Molde FK,Eliteserien,45.9,https://www.transfermarkt.com/molde-fk/startseite/verein/687
+Montpellier HSC,OK,Montpellier HSC,Ligue 2,29.85,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969
+NEOM SC,OK,NEOM SC,Saudi Pro League,83.38,https://www.transfermarkt.com/al-suqoor/startseite/verein/34911
+Nashville SC,OK,Nashville SC,Major League Soccer,47.18,https://www.transfermarkt.com/nashville-sc/startseite/verein/63966
+Nea Salamina Famagusta,OK,Nea Salamina Famagusta,Cyprus League,5.78,https://www.transfermarkt.com/nea-salamina-famagusta/startseite/verein/18945
+Neftchi Fergana,OK,Neftchi Fergana,O'zbekiston Superligasi,16.35,https://www.transfermarkt.com/neftchi-fergana/startseite/verein/13306
+New England Revolution,OK,New England Revolution,Major League Soccer,49.48,https://www.transfermarkt.com/new-england-revolution/startseite/verein/626
+New York City FC,OK,New York City FC,Major League Soccer,74.5,https://www.transfermarkt.com/new-york-city-fc/startseite/verein/40058
+Norwich City,OK,Norwich City,Championship,103.38,https://www.transfermarkt.com/norwich-city/startseite/verein/1123
+Olympiacos Piraeus,OK,Olympiacos Piraeus,Super League 1,190.25,https://www.transfermarkt.com/olympiakos-piraus/startseite/verein/683
+Omonia Nicosia,OK,Omonia Nicosia,Cyprus League,21.45,https://www.transfermarkt.com/omonia-nikosia/startseite/verein/829
+Orlando City SC,OK,Orlando City SC,Major League Soccer,59.1,https://www.transfermarkt.com/orlando-city-sc/startseite/verein/45604
+PAOK Thessaloniki,OK,PAOK Thessaloniki,Super League 1,118.35,https://www.transfermarkt.com/paok-thessaloniki/startseite/verein/1091
+PSV Eindhoven,OK,PSV Eindhoven,Eredivisie,284.45,https://www.transfermarkt.com/psv-eindhoven/startseite/verein/383
+Palermo FC,OK,Palermo FC,Serie B,51.78,https://www.transfermarkt.com/palermo-fc/startseite/verein/458
+Panathinaikos,OK,Panathinaikos,Super League 1,132.95,https://www.transfermarkt.com/panathinaikos-athen/startseite/verein/265
+Piast Gliwice,OK,Piast Gliwice,PKO BP Ekstraklasa,9.75,https://www.transfermarkt.com/piast-gliwice/startseite/verein/6112
+Pisa Sporting Club,OK,Pisa Sporting Club,Serie B,63.45,https://www.transfermarkt.com/ac-pisa-1909/startseite/verein/4172
+RCD Mallorca,OK,RCD Mallorca,LaLiga2,50.2,https://www.transfermarkt.com/rcd-mallorca/startseite/verein/237
+RSC Anderlecht,OK,RSC Anderlecht,Jupiler Pro League,93.8,https://www.transfermarkt.com/rsc-anderlecht/startseite/verein/58
+Rangers FC,OK,Rangers FC,Scottish Premiership,148.65,https://www.transfermarkt.com/glasgow-rangers/startseite/verein/124
+Real Oviedo,OK,Real Oviedo,LaLiga2,35.45,https://www.transfermarkt.com/real-oviedo/startseite/verein/2497
+Real Salt Lake City,OK,Real Salt Lake City,Major League Soccer,54.65,https://www.transfermarkt.com/real-salt-lake-city/startseite/verein/6643
+Red Star Belgrade,OK,Red Star Belgrade,Super liga Srbije,100.6,https://www.transfermarkt.com/roter-stern-belgrad/startseite/verein/159
+Rodina Moscow,OK,Rodina Moscow,Premier Liga,25.0,https://www.transfermarkt.com/rodina-moskau/startseite/verein/59024
+Royal Antwerp FC,OK,Royal Antwerp FC,Jupiler Pro League,61.05,https://www.transfermarkt.com/royal-antwerpen-fc/startseite/verein/1096
+SC Braga,OK,SC Braga,Liga Portugal,150.3,https://www.transfermarkt.com/sc-braga/startseite/verein/1075
+SC Heerenveen,OK,SC Heerenveen,Eredivisie,52.65,https://www.transfermarkt.com/sc-heerenveen/startseite/verein/306
+SD Eibar,OK,SD Eibar,LaLiga2,16.4,https://www.transfermarkt.com/sd-eibar/startseite/verein/1533
+SL Benfica,OK,SL Benfica,Liga Portugal,374.05,https://www.transfermarkt.com/benfica-lissabon/startseite/verein/294
+SV Darmstadt 98,OK,SV Darmstadt 98,2. Bundesliga,28.25,https://www.transfermarkt.com/sv-darmstadt-98/startseite/verein/105
+San Diego FC,OK,San Diego FC,Major League Soccer,49.5,https://www.transfermarkt.com/san-diego-fc/startseite/verein/114977
+Sanfrecce Hiroshima,OK,Sanfrecce Hiroshima,J1 League,20.1,https://www.transfermarkt.com/sanfrecce-hiroshima/startseite/verein/2697
+Shakhtar Donetsk,OK,Shakhtar Donetsk,Premier Liga,189.6,https://www.transfermarkt.com/shakhtar-donetsk/startseite/verein/660
+Sharjah FC,OK,Sharjah FC,UAE Pro League,30.48,https://www.transfermarkt.com/sharjah-cultural-sports-club/startseite/verein/13613
+Sheffield United,OK,Sheffield United,Championship,112.25,https://www.transfermarkt.com/sheffield-united/startseite/verein/350
+Sociedade Esportiva Palmeiras,OK,Sociedade Esportiva Palmeiras,Campeonato Brasileiro Série A,209.48,https://www.transfermarkt.com/se-palmeiras-sao-paulo/startseite/verein/1023
+Southampton FC,OK,Southampton FC,Championship,148.3,https://www.transfermarkt.com/fc-southampton/startseite/verein/180
+Spartak Moscow,OK,Spartak Moscow,Premier Liga,127.6,https://www.transfermarkt.com/spartak-moskau/startseite/verein/232
+Sport Club Internacional,OK,Sport Club Internacional,Campeonato Brasileiro Série A,75.5,https://www.transfermarkt.com/sc-internacional-porto-alegre/startseite/verein/6600
+Sporting CP,OK,Sporting CP,Liga Portugal,378.7,https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336
+St. Louis CITY SC,OK,St. Louis CITY SC,Major League Soccer,44.4,https://www.transfermarkt.com/st-louis-city-sc/startseite/verein/82686
+Stade Lavallois,OK,Stade Lavallois,Ligue 2,8.98,https://www.transfermarkt.com/stade-laval/startseite/verein/1080
+Stade Reims,OK,Stade Reims,Ligue 2,51.9,https://www.transfermarkt.com/stade-reims/startseite/verein/1421
+Stoke City,OK,Stoke City,Championship,97.15,https://www.transfermarkt.com/stoke-city/startseite/verein/512
+Swansea City,OK,Swansea City,Championship,108.13,https://www.transfermarkt.com/swansea-city/startseite/verein/2288
+Swehly SC,OK,Swehly SC,Libyan Premier League,10.23,https://www.transfermarkt.com/asswehly-sports-club/startseite/verein/38559
+São Paulo Futebol Clube,OK,São Paulo Futebol Clube,Campeonato Brasileiro Série A,84.3,https://www.transfermarkt.com/fc-sao-paulo/startseite/verein/585
+Toronto FC,OK,Toronto FC,Major League Soccer,47.45,https://www.transfermarkt.com/toronto-fc/startseite/verein/11141
+Trabzonspor,OK,Trabzonspor,Süper Lig,185.8,https://www.transfermarkt.com/trabzonspor/startseite/verein/449
+UC Sampdoria,OK,UC Sampdoria,Serie B,44.55,https://www.transfermarkt.com/sampdoria-genua/startseite/verein/1038
+UD Almería,OK,UD Almería,LaLiga2,59.1,https://www.transfermarkt.com/ud-almeria/startseite/verein/3302
+UD Las Palmas,OK,UD Las Palmas,LaLiga2,29.7,https://www.transfermarkt.com/ud-las-palmas/startseite/verein/472
+US Avellino 1912,OK,US Avellino 1912,Serie B,28.75,https://www.transfermarkt.com/us-avellino-1912/startseite/verein/2331
+US Cremonese,OK,US Cremonese,Serie B,49.75,https://www.transfermarkt.com/us-cremonese/startseite/verein/2239
+Vancouver Whitecaps FC,OK,Vancouver Whitecaps FC,Major League Soccer,60.9,https://www.transfermarkt.com/vancouver-whitecaps-fc/startseite/verein/6321
+VfL Bochum,OK,VfL Bochum,2. Bundesliga,24.88,https://www.transfermarkt.com/vfl-bochum/startseite/verein/80
+VfL Osnabrück,OK,VfL Osnabrück,2. Bundesliga,12.15,https://www.transfermarkt.com/vfl-osnabruck/startseite/verein/81
+VfL Wolfsburg,OK,VfL Wolfsburg,2. Bundesliga,111.9,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82
+Volos FC,OK,Volos FC,Super League 1,15.08,https://www.transfermarkt.com/volos-nps/startseite/verein/60949
+Watford FC,OK,Watford FC,Championship,82.8,https://www.transfermarkt.com/fc-watford/startseite/verein/1010
+West Bromwich Albion,OK,West Bromwich Albion,Championship,57.85,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984
+West Ham United,OK,West Ham United,Championship,267.5,https://www.transfermarkt.com/west-ham-united/startseite/verein/379
+Wolverhampton Wanderers,OK,Wolverhampton Wanderers,Championship,242.45,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543
+Wrexham AFC,OK,Wrexham AFC,Championship,94.5,https://www.transfermarkt.com/afc-wrexham/startseite/verein/1112
+FK Bodø/Glimt,OK,FK Bodø/Glimt,Eliteserien,79.18,https://www.transfermarkt.com/fk-bodo-glimt/startseite/verein/501
+CF Montréal,OK,CF Montréal,Major League Soccer,34.23,https://www.transfermarkt.com/club-de-foot-montreal/startseite/verein/4078
+Club Atlético Belgrano,OK,Club Atlético Belgrano,Torneo Clausura,27.63,https://www.transfermarkt.com/ca-belgrano/startseite/verein/2417
+Karlsruher SC,OK,Karlsruher SC,2. Bundesliga,32.83,https://www.transfermarkt.com/karlsruher-sc/startseite/verein/48
+Marko FC,OK,Marko FC,Super League 2,4.58,https://www.transfermarkt.com/gs-marko/startseite/verein/4001
